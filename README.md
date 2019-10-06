@@ -1,6 +1,6 @@
 # Polyfill for Array.prototype.takeByIndex
 
-[![Build Status](https://travis-ci.org/ayarushin/array-takeByIndex-polyfill.svg?branch=master)](https://travis-ci.org/ayarushin/array-takeByIndex-polyfill)
+[![Build Status](https://travis-ci.org/ayarushin/array-take-by-index-polyfill.svg?branch=master)](https://travis-ci.org/ayarushin/array-take-by-index-polyfill)
 
 Polyfill for array method `takeByIndex()`
 
