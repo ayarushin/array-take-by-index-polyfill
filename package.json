@@ -1,14 +1,15 @@
 {
-  "name": "take-by-index-polyfill",
+  "name": "@ayarushin/array-take-by-index-polyfill",
   "version": "1.0.0",
   "description": "Polyfill for Array.prototype.takeByIndex. Getting element of array even if index is negative",
   "main": "take-by-index-polyfill.js",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ayarushin/array-takeByIndex-polyfill.git"
+    "url": "https://github.com/ayarushin/array-take-by-index-polyfill.git"
   },
   "keywords": [
     "array-takeByIndex",
@@ -18,9 +19,9 @@
   "author": "ayarushin (Alexey Yarushin)",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/ayarushin/array-takeByIndex-polyfill/issues"
+    "url": "https://github.com/ayarushin/array-take-by-index-polyfill/issues"
   },
-  "homepage": "https://github.com/ayarushin/array-takeByIndex-polyfill#readme",
+  "homepage": "https://github.com/ayarushin/array-take-by-index-polyfill#readme",
   "devDependencies": {
     "jest": "24.9.0"
   }
